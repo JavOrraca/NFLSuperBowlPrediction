@@ -1,0 +1,449 @@
+﻿Item,Year,Valuation
+Arizona Cardinals,2005,673
+Arizona Cardinals,2006,789
+Arizona Cardinals,2007,888
+Arizona Cardinals,2008,914
+Arizona Cardinals,2009,935
+Arizona Cardinals,2010,919
+Arizona Cardinals,2011,901
+Arizona Cardinals,2012,922
+Arizona Cardinals,2013,961
+Arizona Cardinals,2014,1000
+Arizona Cardinals,2015,1540
+Arizona Cardinals,2016,2030
+Arizona Cardinals,2017,2150
+Arizona Cardinals,2018,2150
+Atlanta Falcons,2005,690
+Atlanta Falcons,2006,730
+Atlanta Falcons,2007,796
+Atlanta Falcons,2008,872
+Atlanta Falcons,2009,856
+Atlanta Falcons,2010,831
+Atlanta Falcons,2011,814
+Atlanta Falcons,2012,837
+Atlanta Falcons,2013,933
+Atlanta Falcons,2014,1125
+Atlanta Falcons,2015,1670
+Atlanta Falcons,2016,2130
+Atlanta Falcons,2017,2575
+Atlanta Falcons,2018,2600
+Baltimore Ravens,2005,864
+Baltimore Ravens,2006,846
+Baltimore Ravens,2007,965
+Baltimore Ravens,2008,1062
+Baltimore Ravens,2009,1079
+Baltimore Ravens,2010,1073
+Baltimore Ravens,2011,1088
+Baltimore Ravens,2012,1160
+Baltimore Ravens,2013,1227
+Baltimore Ravens,2014,1500
+Baltimore Ravens,2015,1930
+Baltimore Ravens,2016,2300
+Baltimore Ravens,2017,2500
+Baltimore Ravens,2018,2590
+Buffalo Bills,2005,708
+Buffalo Bills,2006,756
+Buffalo Bills,2007,821
+Buffalo Bills,2008,885
+Buffalo Bills,2009,909
+Buffalo Bills,2010,799
+Buffalo Bills,2011,792
+Buffalo Bills,2012,805
+Buffalo Bills,2013,870
+Buffalo Bills,2014,935
+Buffalo Bills,2015,1400
+Buffalo Bills,2016,1500
+Buffalo Bills,2017,1600
+Buffalo Bills,2018,1600
+Carolina Panthers,2005,878
+Carolina Panthers,2006,936
+Carolina Panthers,2007,956
+Carolina Panthers,2008,1040
+Carolina Panthers,2009,1049
+Carolina Panthers,2010,1037
+Carolina Panthers,2011,1002
+Carolina Panthers,2012,1050
+Carolina Panthers,2013,1057
+Carolina Panthers,2014,1250
+Carolina Panthers,2015,1560
+Carolina Panthers,2016,2075
+Carolina Panthers,2017,2300
+Carolina Panthers,2018,2300
+Chicago Bears,2005,871
+Chicago Bears,2006,945
+Chicago Bears,2007,984
+Chicago Bears,2008,1064
+Chicago Bears,2009,1082
+Chicago Bears,2010,1067
+Chicago Bears,2011,1093
+Chicago Bears,2012,1190
+Chicago Bears,2013,1252
+Chicago Bears,2014,1700
+Chicago Bears,2015,2450
+Chicago Bears,2016,2700
+Chicago Bears,2017,2850
+Chicago Bears,2018,2900
+Cincinnati Bengals,2005,716
+Cincinnati Bengals,2006,825
+Cincinnati Bengals,2007,912
+Cincinnati Bengals,2008,941
+Cincinnati Bengals,2009,953
+Cincinnati Bengals,2010,905
+Cincinnati Bengals,2011,875
+Cincinnati Bengals,2012,871
+Cincinnati Bengals,2013,924
+Cincinnati Bengals,2014,990
+Cincinnati Bengals,2015,1445
+Cincinnati Bengals,2016,1680
+Cincinnati Bengals,2017,1800
+Cincinnati Bengals,2018,1800
+Cleveland Browns,2005,892
+Cleveland Browns,2006,970
+Cleveland Browns,2007,969
+Cleveland Browns,2008,1035
+Cleveland Browns,2009,1032
+Cleveland Browns,2010,1015
+Cleveland Browns,2011,977
+Cleveland Browns,2012,987
+Cleveland Browns,2013,1005
+Cleveland Browns,2014,1120
+Cleveland Browns,2015,1500
+Cleveland Browns,2016,1850
+Cleveland Browns,2017,1950
+Cleveland Browns,2018,1950
+Dallas Cowboys,2005,1063
+Dallas Cowboys,2006,1173
+Dallas Cowboys,2007,1500
+Dallas Cowboys,2008,1612
+Dallas Cowboys,2009,1650
+Dallas Cowboys,2010,1805
+Dallas Cowboys,2011,1850
+Dallas Cowboys,2012,2100
+Dallas Cowboys,2013,2300
+Dallas Cowboys,2014,3200
+Dallas Cowboys,2015,4000
+Dallas Cowboys,2016,4200
+Dallas Cowboys,2017,4800
+Dallas Cowboys,2018,5000
+Denver Broncos,2005,907
+Denver Broncos,2006,975
+Denver Broncos,2007,994
+Denver Broncos,2008,1061
+Denver Broncos,2009,1081
+Denver Broncos,2010,1049
+Denver Broncos,2011,1046
+Denver Broncos,2012,1130
+Denver Broncos,2013,1161
+Denver Broncos,2014,1450
+Denver Broncos,2015,1940
+Denver Broncos,2016,2400
+Denver Broncos,2017,2600
+Denver Broncos,2018,2650
+Detroit Lions,2005,780
+Detroit Lions,2006,839
+Detroit Lions,2007,870
+Detroit Lions,2008,917
+Detroit Lions,2009,872
+Detroit Lions,2010,817
+Detroit Lions,2011,844
+Detroit Lions,2012,855
+Detroit Lions,2013,900
+Detroit Lions,2014,960
+Detroit Lions,2015,1440
+Detroit Lions,2016,1650
+Detroit Lions,2017,1700
+Detroit Lions,2018,1700
+Green Bay Packers,2005,849
+Green Bay Packers,2006,911
+Green Bay Packers,2007,927
+Green Bay Packers,2008,1023
+Green Bay Packers,2009,1019
+Green Bay Packers,2010,1018
+Green Bay Packers,2011,1089
+Green Bay Packers,2012,1160
+Green Bay Packers,2013,1183
+Green Bay Packers,2014,1375
+Green Bay Packers,2015,1950
+Green Bay Packers,2016,2350
+Green Bay Packers,2017,2550
+Green Bay Packers,2018,2625
+Houston Texans,2005,946
+Houston Texans,2006,1043
+Houston Texans,2007,1056
+Houston Texans,2008,1125
+Houston Texans,2009,1150
+Houston Texans,2010,1171
+Houston Texans,2011,1202
+Houston Texans,2012,1301
+Houston Texans,2013,1450
+Houston Texans,2014,1850
+Houston Texans,2015,2500
+Houston Texans,2016,2600
+Houston Texans,2017,2800
+Houston Texans,2018,2800
+Indianapolis Colts,2005,715
+Indianapolis Colts,2006,837
+Indianapolis Colts,2007,911
+Indianapolis Colts,2008,1076
+Indianapolis Colts,2009,1025
+Indianapolis Colts,2010,1040
+Indianapolis Colts,2011,1057
+Indianapolis Colts,2012,1150
+Indianapolis Colts,2013,1200
+Indianapolis Colts,2014,1400
+Indianapolis Colts,2015,1875
+Indianapolis Colts,2016,2180
+Indianapolis Colts,2017,2375
+Indianapolis Colts,2018,2380
+Jacksonville Jaguars,2005,691
+Jacksonville Jaguars,2006,744
+Jacksonville Jaguars,2007,811
+Jacksonville Jaguars,2008,876
+Jacksonville Jaguars,2009,866
+Jacksonville Jaguars,2010,725
+Jacksonville Jaguars,2011,725
+Jacksonville Jaguars,2012,770
+Jacksonville Jaguars,2013,840
+Jacksonville Jaguars,2014,965
+Jacksonville Jaguars,2015,1480
+Jacksonville Jaguars,2016,1950
+Jacksonville Jaguars,2017,2075
+Jacksonville Jaguars,2018,2080
+Kansas City Chiefs,2005,762
+Kansas City Chiefs,2006,894
+Kansas City Chiefs,2007,960
+Kansas City Chiefs,2008,1016
+Kansas City Chiefs,2009,1027
+Kansas City Chiefs,2010,965
+Kansas City Chiefs,2011,986
+Kansas City Chiefs,2012,1010
+Kansas City Chiefs,2013,1009
+Kansas City Chiefs,2014,1100
+Kansas City Chiefs,2015,1.53
+Kansas City Chiefs,2016,1880
+Kansas City Chiefs,2017,2100
+Kansas City Chiefs,2018,2100
+Los Angeles Chargers,2005,678
+Los Angeles Chargers,2006,731
+Los Angeles Chargers,2007,826
+Los Angeles Chargers,2008,888
+Los Angeles Chargers,2009,917
+Los Angeles Chargers,2010,907
+Los Angeles Chargers,2011,920
+Los Angeles Chargers,2012,936
+Los Angeles Chargers,2013,949
+Los Angeles Chargers,2014,995
+Los Angeles Chargers,2015,1525
+Los Angeles Chargers,2016,2080
+Los Angeles Chargers,2017,2275
+Los Angeles Chargers,2018,2275
+Los Angeles Rams,2005,757
+Los Angeles Rams,2006,841
+Los Angeles Rams,2007,908
+Los Angeles Rams,2008,929
+Los Angeles Rams,2009,913
+Los Angeles Rams,2010,779
+Los Angeles Rams,2011,775
+Los Angeles Rams,2012,780
+Los Angeles Rams,2013,875
+Los Angeles Rams,2014,930
+Los Angeles Rams,2015,1450
+Los Angeles Rams,2016,2900
+Los Angeles Rams,2017,3000
+Los Angeles Rams,2018,3200
+Miami Dolphins,2005,856
+Miami Dolphins,2006,912
+Miami Dolphins,2007,942
+Miami Dolphins,2008,1044
+Miami Dolphins,2009,1015
+Miami Dolphins,2010,1011
+Miami Dolphins,2011,1012
+Miami Dolphins,2012,1060
+Miami Dolphins,2013,1074
+Miami Dolphins,2014,1300
+Miami Dolphins,2015,1850
+Miami Dolphins,2016,2380
+Miami Dolphins,2017,2575
+Miami Dolphins,2018,2575
+Minnesota Vikings,2005,658
+Minnesota Vikings,2006,720
+Minnesota Vikings,2007,782
+Minnesota Vikings,2008,839
+Minnesota Vikings,2009,835
+Minnesota Vikings,2010,774
+Minnesota Vikings,2011,796
+Minnesota Vikings,2012,975
+Minnesota Vikings,2013,1007
+Minnesota Vikings,2014,1150
+Minnesota Vikings,2015,1590
+Minnesota Vikings,2016,2200
+Minnesota Vikings,2017,2400
+Minnesota Vikings,2018,2400
+New England Patriots,2005,1040
+New England Patriots,2006,1176
+New England Patriots,2007,1199
+New England Patriots,2008,1324
+New England Patriots,2009,1361
+New England Patriots,2010,1367
+New England Patriots,2011,1400
+New England Patriots,2012,1640
+New England Patriots,2013,1800
+New England Patriots,2014,2600
+New England Patriots,2015,3200
+New England Patriots,2016,3400
+New England Patriots,2017,3700
+New England Patriots,2018,3800
+New Orleans Saints,2005,718
+New Orleans Saints,2006,73
+New Orleans Saints,2007,854
+New Orleans Saints,2008,937
+New Orleans Saints,2009,942
+New Orleans Saints,2010,955
+New Orleans Saints,2011,965
+New Orleans Saints,2012,971
+New Orleans Saints,2013,1004
+New Orleans Saints,2014,1110
+New Orleans Saints,2015,1515
+New Orleans Saints,2016,1750
+New Orleans Saints,2017,2000
+New Orleans Saints,2018,2075
+New York Giants,2005,806
+New York Giants,2006,890
+New York Giants,2007,974
+New York Giants,2008,1178
+New York Giants,2009,1183
+New York Giants,2010,1182
+New York Giants,2011,1300
+New York Giants,2012,1470
+New York Giants,2013,1550
+New York Giants,2014,2100
+New York Giants,2015,2800
+New York Giants,2016,3100
+New York Giants,2017,3300
+New York Giants,2018,3300
+New York Jets,2005,739
+New York Jets,2006,876
+New York Jets,2007,967
+New York Jets,2008,1170
+New York Jets,2009,1170
+New York Jets,2010,1144
+New York Jets,2011,1223
+New York Jets,2012,1280
+New York Jets,2013,1380
+New York Jets,2014,1800
+New York Jets,2015,2600
+New York Jets,2016,2750
+New York Jets,2017,2750
+New York Jets,2018,2850
+Oakland Raiders,2005,676
+Oakland Raiders,2006,736
+Oakland Raiders,2007,812
+Oakland Raiders,2008,861
+Oakland Raiders,2009,797
+Oakland Raiders,2010,758
+Oakland Raiders,2011,761
+Oakland Raiders,2012,785
+Oakland Raiders,2013,825
+Oakland Raiders,2014,970
+Oakland Raiders,2015,1430
+Oakland Raiders,2016,2100
+Oakland Raiders,2017,2380
+Oakland Raiders,2018,2420
+Philadelphia Eagles,2005,952
+Philadelphia Eagles,2006,1024
+Philadelphia Eagles,2007,1052
+Philadelphia Eagles,2008,1116
+Philadelphia Eagles,2009,1123
+Philadelphia Eagles,2010,1119
+Philadelphia Eagles,2011,1164
+Philadelphia Eagles,2012,1260
+Philadelphia Eagles,2013,1314
+Philadelphia Eagles,2014,1750
+Philadelphia Eagles,2015,2400
+Philadelphia Eagles,2016,2500
+Philadelphia Eagles,2017,2650
+Philadelphia Eagles,2018,2750
+Pittsburgh Steelers,2005,820
+Pittsburgh Steelers,2006,880
+Pittsburgh Steelers,2007,929
+Pittsburgh Steelers,2008,1015
+Pittsburgh Steelers,2009,1020
+Pittsburgh Steelers,2010,996
+Pittsburgh Steelers,2011,1018
+Pittsburgh Steelers,2012,1100
+Pittsburgh Steelers,2013,1118
+Pittsburgh Steelers,2014,1350
+Pittsburgh Steelers,2015,1900
+Pittsburgh Steelers,2016,2250
+Pittsburgh Steelers,2017,2450
+Pittsburgh Steelers,2018,2585
+San Francisco 49ers,2005,699
+San Francisco 49ers,2006,734
+San Francisco 49ers,2007,799
+San Francisco 49ers,2008,865
+San Francisco 49ers,2009,875
+San Francisco 49ers,2010,925
+San Francisco 49ers,2011,990
+San Francisco 49ers,2012,1180
+San Francisco 49ers,2013,1224
+San Francisco 49ers,2014,1600
+San Francisco 49ers,2015,2700
+San Francisco 49ers,2016,3000
+San Francisco 49ers,2017,3050
+San Francisco 49ers,2018,3050
+Seattle Seahawks,2005,823
+Seattle Seahawks,2006,888
+Seattle Seahawks,2007,921
+Seattle Seahawks,2008,1010
+Seattle Seahawks,2009,994
+Seattle Seahawks,2010,989
+Seattle Seahawks,2011,997
+Seattle Seahawks,2012,1040
+Seattle Seahawks,2013,1081
+Seattle Seahawks,2014,1330
+Seattle Seahawks,2015,1870
+Seattle Seahawks,2016,2230
+Seattle Seahawks,2017,2425
+Seattle Seahawks,2018,2580
+Tampa Bay Buccaneers,2005,877
+Tampa Bay Buccaneers,2006,955
+Tampa Bay Buccaneers,2007,963
+Tampa Bay Buccaneers,2008,1053
+Tampa Bay Buccaneers,2009,1085
+Tampa Bay Buccaneers,2010,1032
+Tampa Bay Buccaneers,2011,981
+Tampa Bay Buccaneers,2012,1030
+Tampa Bay Buccaneers,2013,1067
+Tampa Bay Buccaneers,2014,1225
+Tampa Bay Buccaneers,2015,1510
+Tampa Bay Buccaneers,2016,1800
+Tampa Bay Buccaneers,2017,1975
+Tampa Bay Buccaneers,2018,2000
+Tennessee Titans,2005,839
+Tennessee Titans,2006,886
+Tennessee Titans,2007,922
+Tennessee Titans,2008,994
+Tennessee Titans,2009,1000
+Tennessee Titans,2010,994
+Tennessee Titans,2011,964
+Tennessee Titans,2012,1010
+Tennessee Titans,2013,1055
+Tennessee Titans,2014,1160
+Tennessee Titans,2015,1490
+Tennessee Titans,2016,2000
+Tennessee Titans,2017,2050
+Tennessee Titans,2018,2050
+Washington Redskins,2005,1264
+Washington Redskins,2006,1423
+Washington Redskins,2007,1467
+Washington Redskins,2008,1538
+Washington Redskins,2009,1550
+Washington Redskins,2010,1550
+Washington Redskins,2011,1555
+Washington Redskins,2012,1600
+Washington Redskins,2013,1700
+Washington Redskins,2014,2400
+Washington Redskins,2015,2850
+Washington Redskins,2016,2950
+Washington Redskins,2017,3100
+Washington Redskins,2018,3100
